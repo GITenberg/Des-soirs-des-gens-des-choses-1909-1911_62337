@@ -1,0 +1,30 @@
+_repo: Des-soirs-des-gens-des-choses-1909-1911_62337
+_version: 0.0.1
+creator:
+  author:
+    agent_name: La Jeunesse, Ernest
+    alias: Jeunesse, Ernest La
+    birthdate: 1874
+    deathdate: 1917
+    gutenberg_agent_id: '45984'
+    url: http://www.gutenberg.org/2009/agents/45984
+    wikipedia: https://fr.wikipedia.org/wiki/Ernest_La_Jeunesse
+description: ''
+gutenberg_bookshelf:
+- FR Nouveautés
+- FR Chroniques
+gutenberg_issued: '2020-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62337'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'French drama -- 20th century -- History and criticism'
+- !lcsh 'Theater -- France'
+- GITenberg
+title: Des soirs, des gens, des choses... (1909-1911)
+url: http://www.gutenberg.org/ebooks/62337
